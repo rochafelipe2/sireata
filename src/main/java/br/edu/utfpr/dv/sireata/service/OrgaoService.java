@@ -15,6 +15,7 @@ import javax.ws.rs.core.Response.Status;
 
 import br.edu.utfpr.dv.sireata.bo.OrgaoBO;
 import br.edu.utfpr.dv.sireata.model.Orgao;
+import br.edu.utfpr.dv.sireata.service.Json.OrgaoJson;
 
 @Path("/orgao")
 public class OrgaoService {
@@ -44,29 +45,5 @@ public class OrgaoService {
 		}
 	}
 	
-	public class OrgaoJson {
-		
-		private int codigo;
-		private String nome;
-		
-		public OrgaoJson() {
-			this.setCodigo(0);
-			this.setNome("");
-		}
-		
-		public int getCodigo() {
-			return codigo;
-		}
-		public void setCodigo(int codigo) {
-			this.codigo = codigo;
-		}
-		public String getNome() {
-			return nome;
-		}
-		public void setNome(String nome) {
-			this.nome = nome;
-		}
-		
-	}
 
 }

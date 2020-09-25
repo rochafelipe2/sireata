@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="br.edu.utfpr.dv.sireata.bo.AnexoBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/AnexoBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="165" x="161" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.edu.utfpr.dv.sireata.bo.AtaBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/AtaBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="639" width="239" x="366" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="br.edu.utfpr.dv.sireata.bo.AtaParticipanteBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/AtaParticipanteBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="206" x="645" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="br.edu.utfpr.dv.sireata.bo.ComentarioBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/ComentarioBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="203" x="891" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="br.edu.utfpr.dv.sireata.bo.CampusBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/CampusBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="226" x="1134" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="br.edu.utfpr.dv.sireata.bo.DepartamentoBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/DepartamentoBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="268" x="1400" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="br.edu.utfpr.dv.sireata.bo.OrgaoBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/OrgaoBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="231" x="1708" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="br.edu.utfpr.dv.sireata.bo.UsuarioBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/UsuarioBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="236" x="1979" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="br.edu.utfpr.dv.sireata.bo.PautaBO" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/bo/PautaBO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="160" x="2255" y="-259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="br.edu.utfpr.dv.sireata.service.OrgaoService" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/service/OrgaoService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="137" x="45" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="br.edu.utfpr.dv.sireata.service.OrgaoService.OrgaoJson" project="sireata" 
+    file="/sireata/src/main/java/br/edu/utfpr/dv/sireata/service/OrgaoService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="137" x="45" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="12">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
