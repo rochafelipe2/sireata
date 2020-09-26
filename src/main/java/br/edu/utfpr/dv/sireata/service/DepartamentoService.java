@@ -15,6 +15,7 @@ import javax.ws.rs.core.Response.Status;
 
 import br.edu.utfpr.dv.sireata.bo.DepartamentoBO;
 import br.edu.utfpr.dv.sireata.model.Departamento;
+import br.edu.utfpr.dv.sireata.service.Json.DepartamentoJson;
 
 @Path("/departamento")
 public class DepartamentoService {
@@ -44,29 +45,6 @@ public class DepartamentoService {
 		}
 	}
 	
-	public class DepartamentoJson {
-		
-		private int codigo;
-		private String nome;
-		
-		public DepartamentoJson() {
-			this.setCodigo(0);
-			this.setNome("");
-		}
-		
-		public int getCodigo() {
-			return codigo;
-		}
-		public void setCodigo(int codigo) {
-			this.codigo = codigo;
-		}
-		public String getNome() {
-			return nome;
-		}
-		public void setNome(String nome) {
-			this.nome = nome;
-		}
-		
-	}
+
 
 }
